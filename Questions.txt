@@ -1,0 +1,23 @@
+1.	Write a program to find the average and sum of the N numbers using Command line argument.   
+2.	Write a program to demonstrate type casting.   
+3.	Write a program to generate prime numbers between 1 & given number  
+4.	Write a program to design a class  account using the inheritance and static members which  show all functions of a bank (Withdrawl, deposit)  
+5.	Write a program  to create a simple class to find out the area and perimeter of rectangle using super and this keyword.   
+6.	Write a program  to find the factorial of a given number using recursion.   
+7.	Write a program  to design a class using abstract methods and abstract classes.   
+8.	Write a program  to count the number of objects created for a class using static member function 9. Write a program  to demonstrate the use of function overloading.  
+10.	Write a program  to demonstrate the use of multiple inheritance  
+11.	Write a program  that show the partial implementation of Interface  
+12.	Write a program  to design a string class that perform string method(Equal, Reverse the string, change case).   
+13.	Write a program  to handle the exception using try and multiple catch block.    
+14.	Write a program  to create a package that access the member of External class as well as same package.   
+15.	Write a program  that import the user define package and access the Member variable of classes that contained by package.   
+16.	Write a program  to handle the user defined exception using throw keyword.   
+17.	Write a program  to create a class component that shows controls and event handling on that controls.  
+18.	(mathcalc).   
+19.	Write a program  to draw the line, Rectangle, oval, text using the graphics method.  
+20.	Write a program  to create a menu using the frame.   
+21.	Write a program  to create a dialogbox.   
+22.	Write a program  to implement the flow layout and border layout.   
+23.	Write a program  to implement the gridLayout, cardLayout.   
+24.	Write a program  to create Frame that display the student information
